@@ -1,2 +1,4 @@
 # ChatApp
-A local group chat app on java.
+This is a simple local chat box app written on java
+
+# Visual presentation of the app
