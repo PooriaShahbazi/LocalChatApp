@@ -1,4 +1,4 @@
-# ChatApp
+# LocalChatApp
 Local Chat Application (Client-Server)
 
 This project is a simple local chat app built using Java. It includes:
